@@ -1,5 +1,4 @@
-# teste1
-Teste 1 - Altran
+# teste
 Controle de estoque
 
 (a) Fazer um sistema de controle de estoque em PHP.
